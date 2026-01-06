@@ -14,5 +14,5 @@ All repositories are maintained by alexandear unless stated otherwise.
 
 ## See also
 
-- [List of GitHub projects alexandear contributed](https://github.com/alexandear/alexandear/blob/main/CONTRIBUTIONS.md)
-- [GitLab profile](https://gitlab.com/alexandear)
+* [List of GitHub projects alexandear contributed](https://github.com/alexandear/alexandear/blob/main/CONTRIBUTIONS.md)
+* [GitLab profile](https://gitlab.com/alexandear)
